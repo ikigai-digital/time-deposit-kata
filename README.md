@@ -16,7 +16,7 @@ We were only able to salvage a portion of the business requirements. It is possi
 We would like you to refactor the solution and ensure that the implementation meets all of the above requirements. Since the code is already running in production and no bugs have been reported regarding this feature, you can assume that all existing functionalities are implemented correctly. Please ensure that no existing functionalities are broken.
 
 Limitations: 
-- You may not add any additional methods to the TimeDeposit class
+- You may not modify the TimeDeposit class
 - You may not modify the calculateInterest method signature
 
 The TimeDeposit class contains all the necessary information to evaluate the applicable interest rate. If additional criteria are to be considered, we expect them to be added to the TimeDeposit class.
